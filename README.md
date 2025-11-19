@@ -1,2 +1,5 @@
-# portfolio
-My frontend projects portfolio: HTML/CSS/JS apps including landing pages, JS validators, and Pokemon search app.
+# Hocine's Frontend Portfolio
+Welcome! This repository contains my HTML, CSS, and JavaScript projects including:
+- Landing pages
+- Technical documentation pages
+- JS validators and apps (Pokemon search, palindrome checker)
