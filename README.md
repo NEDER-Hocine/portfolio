@@ -73,5 +73,11 @@ Repo: https://github.com/NEDER-Hocine/Survey-Form
 
 Live Demo: https://neder-hocine.github.io/Survey-Form/
 
+10. Gaming E-Commerce Landing Page
+
+Repo: https://github.com/NEDER-Hocine/Gaming-E-Commerce-Landing-Page
+
+Live Demo:
+
 
 📌 More projects will be added soon.
